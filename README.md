@@ -1,2 +1,3 @@
 # git-github-assignment
-# **practicing using github**
+## **practicing using github**
+### This assignment exposed me to the general git work flow including modifications, staging, and pushing. By collaborating with a classmate I learned how to accept pull requests and navigate branches created by someone other than myself. Collaborating was the hardest part of this assignment because I ran into more issues in the terminal while I was trying to navigate branches and commit changes made by someone else. I couldn't figure out how to comment on pull requests through the terminal, so I commented from GitHub instead. This assignment also helped me to understand how gits pointer system works, but more practice is needed.
