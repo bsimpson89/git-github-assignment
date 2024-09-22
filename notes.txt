@@ -1,3 +1,5 @@
 git is a version control tool that works from a local directory. It allows programmers to save a history of their code, which is very useful for long projects! It differentiates itself from other version control tools by saving snapshots of code rather than differences. This means that it takes a wholistic view of your project rather than looking at the individual files. Git works in three stages; working on a project (modifying), saving your project changes (staging), and actually uploading your changes to a local directory (commit). If you don't save your changes to the "staging area" they can't be "committed" to your local directory. But once they're committed it is very hard to lose your data!!!
 
 GitHub is a cloud service that can be used as your local directory. It is a place where programmers can store their programming history. It is a large service that makes collaboration much easier.
+
+Branching in git is when you intentionally diverge from a line of commits so that you can make modifications outside of the "main" branch. It is a way to make new sets of changes that lay outside of your main line of thinking. Good for testing purposes and what not. 
