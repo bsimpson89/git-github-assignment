@@ -3,3 +3,5 @@ git is a version control tool that works from a local directory. It allows progr
 GitHub is a cloud service that can be used as your local directory. It is a place where programmers can store their programming history. It is a large service that makes collaboration much easier.
 
 Branching in git is when you intentionally diverge from a line of commits so that you can make modifications outside of the "main" branch. It is a way to make new sets of changes that lay outside of your main line of thinking. Good for testing purposes and what not. 
+
+pull requests allows people to propose changes to code so that i can reviewed by others and then get merged to the main file.
